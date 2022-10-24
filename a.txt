@@ -1,1 +1,2 @@
-this is a.txt testrepo
+this is a.txt testlocalrepo
+
